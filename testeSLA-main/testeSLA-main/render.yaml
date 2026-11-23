@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: sla-projeto-web
-    env: docker
-    plan: free
